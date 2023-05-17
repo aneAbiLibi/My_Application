@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="PilihBahasa">
+        <item>"Pilih Bahasa"</item>
+        <item>"Indonesia"</item>
+        <item>"Inggris"</item>
+        <item>"Jawa"</item>
+    </string-array>
+</resources>
